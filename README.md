@@ -1,5 +1,44 @@
 # HR Analytics Dashboard: Employee Retention & Attrition Analysis
 
+## 📊 Project Overview
+
+Dataset Size
+- 5,000 Employee Records
+
+Tools Used
+- SQL
+- Power BI
+- DAX
+- Power Query
+
+Dashboard Pages
+- Executive Summary
+- Employee Demographics
+- Attrition Analysis
+- Compensation Analysis
+
+Key KPIs
+- Overall Attrition Rate
+- High-Risk Departments
+- Average Tenure
+- Salary Distribution
+- High Performer Attrition
+- Gender Pay Gap
+
+## Business Questions
+
+This dashboard answers questions such as:
+
+- What is the company's overall attrition rate?
+- Which departments experience the highest turnover?
+- Which employees are at the highest risk of leaving?
+- How does salary relate to employee retention?
+- Are high-performing employees leaving the organization?
+- Does tenure influence attrition?
+- Are there gender pay disparities?
+- Which job roles have the highest turnover?
+
+
 ## 📊 Business Problem
 
 **Employee turnover is costly and impacts productivity.** Organizations lose institutional knowledge, incur recruitment and training costs (typically 50-200% of annual salary), and face productivity gaps during transitions. 
@@ -12,17 +51,37 @@
 
 This dashboard transforms raw HR data into actionable insights, enabling proactive retention strategies before employees leave.
 
+## Business Impact
+
+This dashboard enables HR leaders to:
+
+• Identify employees at risk of leaving
+• Improve retention strategies
+• Monitor workforce trends
+• Reduce hiring costs
+• Support data-driven workforce planning
 
 ## 🎯 Objectives
 
-- ✅ **Measure overall attrition** – What is the true turnover rate and how does it trend over time?
-- ✅ **Identify high-risk departments** – Which teams are losing employees fastest?
-- ✅ **Analyze compensation patterns** – Are salary structures equitable? Do low-paying roles have higher turnover?
-- ✅ **Evaluate training effectiveness** – Does training investment correlate with retention?
-- ✅ **Discover retention patterns** – Which demographic, tenure, and performance profiles stay vs. leave?
-- ✅ **Enable predictive retention** – Flag at-risk employees for proactive intervention
-## 🛠️ Tools & Technologies
+✅ Measure overall attrition
+   Analyze employee turnover rates and trends over time.
 
+✅ Identify high-risk departments
+   Determine which departments experience the highest employee turnover.
+
+✅ Analyze compensation patterns
+   Assess whether salary levels influence employee retention.
+
+✅ Evaluate training effectiveness
+   Examine whether training investment improves employee retention.
+
+✅ Discover retention drivers
+   Identify demographic, tenure, and performance characteristics associated with attrition.
+
+✅ Support proactive decision-making
+   Flag employees at risk of leaving to enable early intervention.
+
+   
 | Tool | Purpose |
 |------|---------|
 | **SQL** | Data extraction, validation, exploratory analysis |
@@ -32,30 +91,29 @@ This dashboard transforms raw HR data into actionable insights, enabling proacti
 | **Excel** | Data source preparation, validation |
 | **Data Modeling** | Star schema design, relationship optimization |
 | **Data Visualization** | KPIs, charts, slicers, drill-through capabilities |
-## 📈 Project Workflow
 
-```
-Business Problem
-        ↓
-Data Collection (5,000 employees, 18 HR dimensions)
-        ↓
-Data Cleaning & Validation (Power Query)
-        ↓
-Data Modeling (Fact/Dimension tables, relationships)
-        ↓
-SQL Analysis (Exploratory queries, validation)
-        ↓
-DAX Measures (KPIs, advanced calculations)
-        ↓
-Dashboard Design (4 pages, drill-through interactions)
-        ↓
-Business Insights & Findings
-        ↓
-Actionable Recommendations
+📈 Project Workflow
+
+1. Business Understanding
+   Define HR retention objectives and key business questions.
+
+2. Data Preparation
+   Clean and transform employee data using Power Query and SQL.
+
+3. Data Modeling
+   Build relationships and optimize the Power BI data model.
+
+4. KPI Development
+   Create DAX measures for attrition, tenure, salary, and retention metrics.
+
+5. Dashboard Design
+   Develop interactive dashboards for HR leaders.
+
+6. Business Insights
+   Identify trends, high-risk departments, and actionable recommendations.
 ```
 
 ---
-
 ## 📊 Dashboard Pages & Analysis
 
 ### **Page 1: Executive Summary**
