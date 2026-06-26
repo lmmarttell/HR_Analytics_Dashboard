@@ -198,23 +198,22 @@ Based on analysis of 5,000 employees:
 
 ---
 
-## 🖼️ Dashboard Screenshots
 
-### Executive Summary
-![Executive Summary Dashboard](Images/01_Executive_Summary.png)
-*High-level view of workforce health: attrition trends, employee count, tenure, and compensation baseline.*
+## 📊 Executive Summary
 
-### Attrition Analysis
-![Attrition Analysis Dashboard](Images/02_Attrition_Analysis.png)
-*Deep dive into who is leaving: attrition by department, age, tenure, performance, and salary level.*
+🖼️ Dashboard Screenshot
 
-### Training Impact Analysis
-![Training Impact Dashboard](Images/03_Training_Impact.png)
-*Counterintuitive finding: employees with more training sometimes show higher attrition rates. Includes tenure confound validation.*
+**Purpose**
 
-### Compensation Analysis
-![Compensation Dashboard](Images/04_Compensation_Analysis.png)
-*Salary distribution, equity across roles, and compensation's relationship to attrition.*
+...
+
+**Key KPIs**
+
+...
+
+**Business Value**
+
+...
 
 ---
 
