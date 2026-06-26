@@ -112,7 +112,8 @@ This dashboard enables HR leaders to:
 6. Business Insights
    Identify trends, high-risk departments, and actionable recommendations.
 ```
-
+   Identify trends, high-risk departments, and actionable recommendations.
+```
 ---
 ## 📊 Dashboard Pages & Analysis
 
