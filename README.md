@@ -111,25 +111,26 @@ This dashboard enables HR leaders to:
 
 6. Business Insights
    Identify trends, high-risk departments, and actionable recommendations.
-```
+
    Identify trends, high-risk departments, and actionable recommendations.
-```
+
 ---
-## 📊 Dashboard Pages & Analysis
+### 📊 Executive Summary
 
-### **Page 1: Executive Summary**
-**What it answers:** What is the health of our workforce?
+![Executive Summary Dashboard](images/executive-summary.png)
 
-- **Total Employee Count** – Baseline workforce size
-- **Overall Attrition Rate** – % of employees who left
-- **Attrition Trend** – Year-over-year movement
-- **Average Employee Tenure** – Stability indicator
-- **Average Salary** – Compensation baseline
-- **Training Participation Rate** – Investment level
-- **Workforce Composition** – Gender, age, department distribution
+**Purpose:** High-level overview of workforce health, providing leadership with a quick snapshot of key workforce metrics.
 
-**Why it matters:** Leadership gets a 30-second snapshot of workforce health before diving deeper.
+**Key KPIs**
+- Total Employee Count
+- Overall Attrition Rate
+- Attrition Trend
+- Average Employee Tenure
+- Average Salary
+- Training Participation Rate
+- Workforce Composition
 
+**Why it matters:** Leadership gets a 30-second snapshot of workforce health before exploring detailed analyses.
 ---
 
 ### **Page 2: Attrition Analysis**
@@ -142,8 +143,7 @@ This dashboard enables HR leaders to:
 - **Attrition by Job Role** – Which positions are hardest to retain?
 - **Salary vs. Attrition** – Does compensation impact retention?
 
-**Key Finding Example:** HR department flagged as highest risk (40%+ attrition), but this masks a company-wide systemic issue affecting all departments proportionally when normalized.
-
+**Key Finding:** The HR department experienced the highest attrition rate in the dataset, indicating a need for targeted retention strategies.
 ---
 
 ### **Page 3: Training & Development Impact**
