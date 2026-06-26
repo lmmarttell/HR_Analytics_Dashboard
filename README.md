@@ -252,6 +252,15 @@ Based on analysis of 5,000 employees:
 
 ---
 
+## 📧 Contact & Feedback
+
+Questions about the analysis, methodology, or recommendations? Feel free to open an issue or reach out.
+
+---
+
+## 📄 License
+
+This project is open-source under the [MIT License](LICENSE). Feel free to use it for learning, but please cite appropriately if sharing.
 
 
 
