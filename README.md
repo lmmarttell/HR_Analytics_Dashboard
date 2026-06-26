@@ -24,7 +24,3 @@ Interactive Power BI dashboard analyzing 5,000 employees across attrition, train
 - MySQL (data source)
 - DAX (calculations)
 
-## How to Use
-1. Download `HR_Analysis_Dashboard.pbix`
-2. Open in Power BI Desktop
-3. Explore interactive dashboards
